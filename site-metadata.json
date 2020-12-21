@@ -3,10 +3,10 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
-        "background": "dark",
+        "title": "FUTURE NETWORKS",
+        "tagline": "Computer Networks",
+        "profile_img": "images/Future Networks Logo.png",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
@@ -77,5 +77,5 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fresh\" target=\"_blank\" rel=\"noopener\">here</a>."
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "FUTURE NETWORKS"
 }
